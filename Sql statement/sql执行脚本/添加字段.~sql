@@ -1,0 +1,3 @@
+select  * from  DMS_PAPERS
+
+alter table DMS_PAPERS add(CREATE_NAME vac)
